@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Delegate Challenge' target in the 'Delegate Challenge' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
